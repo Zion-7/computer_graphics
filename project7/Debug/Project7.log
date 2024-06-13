@@ -1,0 +1,7 @@
+﻿  vetexarray.cpp
+vetexarray.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in source.obj
+vetexarray.obj : error LNK2005: "void __cdecl idle(void)" (?idle@@YAXXZ) already defined in source.obj
+vetexarray.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ) already defined in source.obj
+vetexarray.obj : error LNK2005: _main already defined in source.obj
+vetexarray.obj : error LNK2005: "float rotx" (?rotx@@3MA) already defined in source.obj
+C:\Users\HP\source\repos\Project7\Debug\Project7.exe : fatal error LNK1169: one or more multiply defined symbols found
